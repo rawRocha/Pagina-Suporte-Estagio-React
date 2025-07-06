@@ -1,0 +1,25 @@
+.form-login {
+  width: 400px;
+  border: solid 1px green;
+  border-radius: 8px;
+  padding: 30px;
+  margin-top: -5%;
+  z-index: 2;
+}
+
+.form-login .top-form {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form-login .form-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form-login .btn {
+  background: #a7111c;
+  border: none;
+}

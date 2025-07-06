@@ -1,0 +1,17 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Inter", sans-serif; /* texto padrão */
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Bebas Neue", sans-serif; /* títulos */
+}
