@@ -6,7 +6,7 @@ import "./Cadastro.css";
 const Cadastro = () => {
   return (
     <div className="container">
-      <img src="src\assets\Logo_midia.png" alt="" />
+      {/* <img src="src\assets\Logo_midia.png" alt="" className="logo"/> */}
       <FormCadastro />
     </div>
   );
