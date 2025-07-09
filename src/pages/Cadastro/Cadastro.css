@@ -1,8 +1,8 @@
-html,
+/* html,
 body,
-#root {d
+#root {
   margin-top: 30px;
-}
+} */
 
 .container {
   height: 100vh;
@@ -16,3 +16,4 @@ body,
   width: 250px;
   margin-top: -20%;
 }
+
